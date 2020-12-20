@@ -1,0 +1,143 @@
+[{
+    "_id": "5fdeb36f84b9b8b02c586e77",
+    "day": 1607566447444,
+    "exercises": {
+        "type": "resistance",
+        "name": "Bicep Curl",
+        "duration": 20,
+        "weight": 100,
+        "reps": 10,
+        "sets": 4
+    },
+    "totalDuration": 20
+}, {
+    "_id": "5fdeb36f84b9b8b02c586e78",
+    "day": 1607652847444,
+    "exercises": {
+        "type": "resistance",
+        "name": "Lateral Pull",
+        "duration": 20,
+        "weight": 300,
+        "reps": 10,
+        "sets": 4
+    },
+    "totalDuration": 20
+}, {
+    "_id": "5fdeb36f84b9b8b02c586e79",
+    "day": 1607739247444,
+    "exercises": {
+        "type": "resistance",
+        "name": "Push Press",
+        "duration": 25,
+        "weight": 185,
+        "reps": 8,
+        "sets": 4
+    },
+    "totalDuration": 25
+}, {
+    "_id": "5fdeb36f84b9b8b02c586e7a",
+    "day": 1607825647444,
+    "exercises": {
+        "type": "cardio",
+        "name": "Running",
+        "duration": 25,
+        "distance": 4
+    },
+    "totalDuration": 25
+}, {
+    "_id": "5fdeb36f84b9b8b02c586e7b",
+    "day": 1607912047444,
+    "exercises": {
+        "type": "resistance",
+        "name": "Bench Press",
+        "duration": 20,
+        "weight": 285,
+        "reps": 10,
+        "sets": 4
+    },
+    "totalDuration": 20
+}, {
+    "_id": "5fdeb36f84b9b8b02c586e7c",
+    "day": 1607998447444,
+    "exercises": {
+        "type": "resistance",
+        "name": "Bench Press",
+        "duration": 20,
+        "weight": 300,
+        "reps": 10,
+        "sets": 4
+    },
+    "totalDuration": 20
+}, {
+    "_id": "5fdeb36f84b9b8b02c586e7d",
+    "day": "2020-12-16T02:14:07.444Z",
+    "exercises": {
+        "type": "resistance",
+        "name": "Quad Press",
+        "duration": 30,
+        "weight": 300,
+        "reps": 10,
+        "sets": 4
+    },
+    "totalDuration": 30
+}, {
+    "_id": "5fdeb36f84b9b8b02c586e7e",
+    "day": "2020-12-17T02:14:07.444Z",
+    "exercises": {
+        "type": "resistance",
+        "name": "Bench Press",
+        "duration": 20,
+        "weight": 300,
+        "reps": 10,
+        "sets": 4
+    },
+    "totalDuration": 20
+}, {
+    "_id": "5fdeb36f84b9b8b02c586e7f",
+    "day": "2020-12-18T02:14:07.444Z",
+    "exercises": {
+        "type": "resistance",
+        "name": "Military Press",
+        "duration": 20,
+        "weight": 300,
+        "reps": 10,
+        "sets": 4
+    },
+    "totalDuration": 20
+}, {
+    "_id": "5fdeb36f84b9b8b02c586e7f",
+    "day": "2020-12-18T02:14:07.444Z",
+    "exercises": {
+        "type": "cardio",
+        "name": "Sprinting",
+        "distance": 300,
+        "duration": 10
+    },
+    "totalDuration": 10
+}, {
+    "_id": "5fdeb3d44db06ab05c870746",
+    "exercises": {
+        "type": "resistance",
+        "name": "Pulling A Train",
+        "weight": 9000,
+        "sets": 2,
+        "reps": 10,
+        "duration": 40
+    },
+    "day": "2020-12-20T02:15:48.718Z",
+    "__v": 0,
+    "something": 10,
+    "totalDuration": 40
+}, {
+    "_id": "5fdeb3d44db06ab05c870746",
+    "exercises": {
+        "type": "cardio",
+        "name": "Run",
+        "distance": 10,
+        "duration": 1
+    },
+    "day": "2020-12-20T02:15:48.718Z",
+    "__v": 0,
+    "something": 10,
+    "totalDuration": 1
+}]
